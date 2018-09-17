@@ -38,10 +38,10 @@ You can install MultiSite Clone Duplicator using the built in WordPress plugin i
 If you prefer download MultiSite Clone Duplicator manually :
 
 1. Upload ``` multisite-clone-duplicator/ ``` to the ``` /wp-content/plugins/ ``` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
+2. Activate the plugin through the ``` Plugins ``` menu in WordPress
 3. (Optional) ``` Chmod 777 ``` the logs/ directory of the plugin, if you want to activate logs
-4. Go to My Sites > Network Admin > Duplication and enjoy !
-5. (Optional) Change default options into Network dashboard > Network settings > Duplication
+4. Go to ``` My Sites ``` > ``` Network Admin ``` > ``` Duplication ``` and enjoy !
+5. (Optional) Change default options into ``` Network dashboard ``` > ``` Network settings ``` > ``` Duplication ``` 
 
 In the future, you'll probably want to create a dedicated "template" blog to clone from.
 
