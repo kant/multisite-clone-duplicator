@@ -30,7 +30,7 @@ msgstr "El archivo de registro no se puede escribir"
 
 #: ../include/lang.php:9
 msgid "The log file cannot be written to location"
-msgstr "El archivo no se puede mover a esta ubicación."
+msgstr "El archivo de registro no se puede mover a esta ubicación."
 
 #: ../include/lang.php:10
 msgid "To enable logging, change permissions on log directory"
@@ -79,7 +79,7 @@ msgstr "Faltan campos"
 
 #: ../include/lang.php:29
 msgid "Missing or invalid title"
-msgstr "Revise el titulo"
+msgstr "Revise el título"
 
 #: ../include/lang.php:30
 #, php-format
@@ -87,7 +87,7 @@ msgid ""
 "The following words are reserved for use by WordPress functions and cannot "
 "be used as blog names : <code>%s</code>"
 msgstr ""
-"Las siguientes palabras están reservadas paa funciones de Wordpress y no "
+"Las siguientes palabras están reservadas para funciones de Wordpress y no "
 "pueden ser usadas: <code>%s</code>"
 
 #: ../include/lang.php:31
@@ -96,19 +96,19 @@ msgstr "Revise la dirección web"
 
 #: ../include/lang.php:32
 msgid "Missing admin email address"
-msgstr "Revise el email del administrador"
+msgstr "Revise el correo electrónico del administrador"
 
 #: ../include/lang.php:33
 msgid "Invalid admin email address"
-msgstr "El email del administrador no es válido"
+msgstr "El correo electrónico del administrador no es válido"
 
 #: ../include/lang.php:34
 msgid "Missing or invalid log directory path"
-msgstr "Revise el la ruta del directorio"
+msgstr "Revise la ruta del directorio de registro"
 
 #: ../include/lang.php:35
 msgid "New site was created"
-msgstr "Sitio web creado"
+msgstr "Un nuevo sitio web fue creado"
 
 #: ../include/lang.php:36
 msgid "There was an error creating the user."
@@ -125,11 +125,11 @@ msgstr "Duplicar sitio"
 
 #: ../include/lang.php:43
 msgid "Original site to copy"
-msgstr "Sitio original"
+msgstr "Sitio original a copiar"
 
 #: ../include/lang.php:44
 msgid "New Site - Address"
-msgstr "Nuevo sitios - Dirección"
+msgstr "Nuevo sitio - Dirección"
 
 #: ../include/lang.php:45
 msgid "Only lowercase letters (a-z) and numbers are allowed."
@@ -141,7 +141,7 @@ msgstr "Nuevo sitio - Título"
 
 #: ../include/lang.php:47
 msgid "New Site - Admin Email"
-msgstr "Nuevo sitio - Email Administrador"
+msgstr "Nuevo sitio - Correo electrónico Administrador"
 
 #: ../include/lang.php:48
 msgid ""
@@ -184,11 +184,11 @@ msgstr "Log"
 
 #: ../include/lang.php:57
 msgid "Generate log file"
-msgstr "Generar fichero log"
+msgstr "Generar fichero de registro"
 
 #: ../include/lang.php:58
 msgid "Log directory"
-msgstr "Directorio Log"
+msgstr "Directorio de registro"
 
 #: ../include/lang.php:60
 msgid "Edit duplicable sites list"
